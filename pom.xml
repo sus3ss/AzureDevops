@@ -4,11 +4,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.example.maven-project</groupId>
-  <artifactId>maven-project</artifactId>
+  <artifactId>maven-project1</artifactId>
   <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>Maven Project</name>
-  <description>Sample Maven project with a working, deployable site.</description>
+  <name>Azure Project1</name>
+  <description>working Azure pipeline scenario</description>
   <url>http://www.example.com</url>
 
   <properties>
